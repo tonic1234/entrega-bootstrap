@@ -1,0 +1,11 @@
+.avatar{
+    width: 100px;
+}
+.navbar{
+    margin-top: -15px;
+}
+.nav-link{
+    font-size: 15pt;
+    margin-top: -5px;
+    font-weight: 500;
+}
